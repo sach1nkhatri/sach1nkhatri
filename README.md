@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sach1nkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="sach1nkhatri" /> </p>
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sach1nkhatri" alt="sach1nkhatri" /></a> </p>
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sach1nkhatri" alt="sach1nkhatri" /></a> </p>--->
 
 - 🔭 I’m currently working on [Khaja Khoj](https://github.com/sach1nkhatri/KhajaKhoj)
 
