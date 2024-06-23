@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Khaja Khoj](https://github.com/sach1nkhatri/KhajaKhoj)
 
-- 💬 Ask me about **c,Java,kotlin**
+- 💬 Ask me about **Me**
 
 - 📫 How to reach me **sachin10392313@gmail.com**
 
