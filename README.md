@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Khatri</h1>
-<h3 align="center">A passionate Developer from Earth</h3>
+<h3 align="center">A passionate Human from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sach1nkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="sach1nkhatri" /> </p>
 
