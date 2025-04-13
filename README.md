@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sachin10392313@gmail.com**
 
-- ⚡ Fun fact **I am Who I am I may Not be You You my not Be Me But I am ME**
+- ⚡ Fun fact **I am IronMan -RDJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
