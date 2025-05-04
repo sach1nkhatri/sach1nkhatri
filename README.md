@@ -5,7 +5,7 @@
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sach1nkhatri" alt="sach1nkhatri" /></a> </p>--->
 
-- 🔭 I’m currently working on [AttenAi](https://github.com/sach1nkhatri/attenai)
+- 🔭 I’m currently working on [LawyerUp Ai](https://github.com/sach1nkhatri/lawyerup_android)
 
 - 💬 Ask me about **Me**
 
