@@ -1,31 +1,87 @@
 <h1 align="center">Hi 👋, I'm Sachin Khatri</h1>
-<h3 align="center">A passionate Human from Earth</h3>
+<h3 align="center">🚀 Full Stack Developer | Mobile + AI Enthusiast | Designer | Hardware Hacker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sach1nkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="sach1nkhatri" /> </p>
-
-<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sach1nkhatri" alt="sach1nkhatri" /></a> </p>--->
-
-- 🔭 I’m currently working on [LawyerUp Ai](https://github.com/sach1nkhatri/lawyerup_android)
-
-- 💬 Ask me about **Me**
-
-- 📫 How to reach me **sachin10392313@gmail.com**
-
-- ⚡ Fun fact **I am IronMan -RDJ**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sachin khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin khatri" height="30" width="40" /></a>
-<a href="https://instagram.com/k.sach1n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.sach1n_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sachin khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sachin khatri" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sach1nkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="sach1nkhatri" />
+  <img src="https://img.shields.io/github/followers/sach1nkhatri?label=Followers&style=social" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sach1nkhatri&show_icons=true&locale=en&layout=compact" alt="sach1nkhatri" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sach1nkhatri&show_icons=true&locale=en" alt="sach1nkhatri" /></p>
+- 🔭 I’m currently building [LawyerUp AI](https://github.com/sach1nkhatri/lawyerup_android)
+- 🌱 Always learning **Flutter**, **AI**, and **Embedded Systems**
+- 💬 Ask me about `Flutter`, `Node.js`, `React`, `MongoDB`, `ESP32`, or `AI LLMs`
+- 📫 Reach me at: **sachin10392313@gmail.com**
+- ⚡ Fun fact: *"I am IronMan - RDJ 🦾"*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sach1nkhatri&" alt="sach1nkhatri" /></p>
+---
 
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://fb.com/sachin khatri" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/k.sach1n_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/sachin khatri" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+| Programming | Frontend | Backend | Mobile | Tools |
+|-------------|----------|---------|--------|-------|
+| ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sach1nkhatri&theme=radical&margin-w=15&row=2&column=4" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sach1nkhatri&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sach1nkhatri&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sach1nkhatri&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📊 Contribution Activity
+
+#### 📅 Contribution Calendar
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sach1nkhatri&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=00e7ff&point=00ffe1&area=true&hide_border=true" />
+</p>
+
+#### 📊 Weekly Breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sach1nkhatri&theme=tokyonight&layout=compact" />
+</p>
+
+#### 🕒 Commit Heatmap (by hour)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sach1nkhatri/github-profile-summary-cards/master/profile-summary-card-output/github_dark/3-stars.svg" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 [LawyerUp AI](https://github.com/sach1nkhatri/lawyerup_android) – Civic tech AI + legal platform for Nepal 🇳🇵
+- 📱 [Flutter News App](https://github.com/sach1nkhatri/flutter_news_ui) – Beautiful Flutter UI with full clean architecture
+- 🤖 [ESP32 Drone Project](#) – Custom Arduino-based flight controller & sensor stack
+
+---
+
+> 💬 *"I make things that solve real problems. And sometimes I break stuff to learn how it works."*
