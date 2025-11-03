@@ -12,7 +12,7 @@
 
 I am Sachin, Thanks for reading my name.  
 Sometimes I understand things... sometimes I don’t.  
-But hey — at least I have bananas and ideas 
+But hey at least I have bananas and ideas 
 
 ---
 
